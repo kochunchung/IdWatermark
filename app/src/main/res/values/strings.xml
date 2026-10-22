@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">證件浮水印</string>
+    <string name="title">身分證影本浮水印</string>
+    <string name="subtitle">選好正反面並裁切到只剩證件、填寫用途，自動加上浮水印並匯出 A4 PDF（證件以真實大小 85.6 × 54 mm 列印）。全程在手機本機處理，不會上傳。</string>
+    <string name="crop_title_front">裁切正面</string>
+    <string name="crop_title_back">裁切反面</string>
+    <string name="crop_hint">拖曳四個角，讓框線貼齊證件邊緣。裁得越準，列印出來的證件越接近真實大小。</string>
+    <string name="crop_lock">鎖定證件比例（85.6 : 54）</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_rotate">旋轉 90°</string>
+    <string name="btn_ok">確定</string>
+    <string name="front">正面</string>
+    <string name="back">反面</string>
+    <string name="pick_front">選擇並裁切正面</string>
+    <string name="pick_back">選擇並裁切反面</string>
+    <string name="hint_purpose">用途（例如：租屋申請、○○銀行開戶）</string>
+    <string name="hint_date">日期（點一下可修改）</string>
+    <string name="style_label">浮水印樣式</string>
+    <string name="style_tiled">斜向重複平鋪</string>
+    <string name="style_center">單行大字橫跨中央</string>
+    <string name="btn_preview">預覽</string>
+    <string name="btn_export">匯出 PDF</string>
+    <string name="btn_share">分享</string>
+    <string name="btn_open">開啟</string>
+    <string name="preview_label">預覽（A4）</string>
+    <string name="err_need_images">請先選擇身分證正面與反面</string>
+    <string name="err_need_purpose">請填寫用途</string>
+    <string name="err_load_image">無法讀取這張圖片</string>
+    <string name="err_export">匯出失敗：%1$s</string>
+    <string name="working">處理中…</string>
+    <string name="exported">已儲存到「下載」資料夾：%1$s</string>
+    <string name="watermark_text">僅供「%1$s」使用，他用無效 %2$s</string>
+    <string name="share_title">分享 PDF</string>
+    <string name="no_viewer">找不到可開啟 PDF 的應用程式</string>
+</resources>
